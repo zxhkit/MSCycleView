@@ -62,6 +62,7 @@
 				80B2662B202D717400DA358E /* AppDelegate.m */,
 				80B2662D202D717400DA358E /* ViewController.h */,
 				80B2662E202D717400DA358E /* ViewController.m */,
+				80B26640202D719B00DA358E /* MSCycleView */,
 				80B26630202D717400DA358E /* Main.storyboard */,
 				80B26633202D717400DA358E /* Assets.xcassets */,
 				80B26635202D717400DA358E /* LaunchScreen.storyboard */,
@@ -69,6 +70,13 @@
 				80B26639202D717400DA358E /* main.m */,
 			);
 			path = MSCycleViewDemo;
+			sourceTree = "<group>";
+		};
+		80B26640202D719B00DA358E /* MSCycleView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MSCycleView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
